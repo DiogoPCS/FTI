@@ -3,7 +3,7 @@ Repositório de exemplo para aula de FTI
 
 # Faculdade de Tecnologia de Tatuí - FATEC
 
-## Curso de Gestão da Tecnologia da Informação
+## Curso de Gestão da Tecnologia da Informação 
 
 ---
 
